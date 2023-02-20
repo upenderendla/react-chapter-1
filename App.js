@@ -29,7 +29,7 @@ const heading1 = React.createElement(
     },
     [heading1, heading2]
   );
-  
+  console.log(heading1)
   // create root using createRoot
   const root = ReactDOM.createRoot(document.getElementById("root"));
   // passing react element inside root

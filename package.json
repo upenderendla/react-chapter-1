@@ -1,0 +1,22 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "this is react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upenderendla/namaste-React-chapter-1.git"
+  },
+  "author": "upender endla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upenderendla/namaste-React-chapter-1/issues"
+  },
+  "homepage": "https://github.com/upenderendla/namaste-React-chapter-1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
